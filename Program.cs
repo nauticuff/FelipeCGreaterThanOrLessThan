@@ -1,10 +1,9 @@
 ﻿/*
 Carlos Felipe Sales
-9-8-22
+10/19/22
 Mini Challenge 4 - Greater Than or Less Than
 I built a calculator that checks if the first number entered
 is less than, greater than, or equal to the second number entered
-Peer review: Alejandro
 */
 Console.Clear();
 bool run = true;
