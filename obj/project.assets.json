@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\jacob\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\CodingCombing22_23sp\\MiniChallenges\\cfelipeminichallenge4\\cfelipeminichallenge4.csproj",
+      "projectUniqueName": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\felipecGreaterThanOrLessThan\\cfelipeminichallenge4.csproj",
       "projectName": "cfelipeminichallenge4",
-      "projectPath": "C:\\Users\\User\\Documents\\CodingCombing22_23sp\\MiniChallenges\\cfelipeminichallenge4\\cfelipeminichallenge4.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\CodingCombing22_23sp\\MiniChallenges\\cfelipeminichallenge4\\obj\\",
+      "projectPath": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\felipecGreaterThanOrLessThan\\cfelipeminichallenge4.csproj",
+      "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\felipecGreaterThanOrLessThan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
